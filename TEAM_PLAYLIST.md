@@ -10,6 +10,11 @@ This is the final playlist where each team adds their top 5 selected songs from 
 4.  Commit your changes to your **team's branch** and then open a **Pull Request** to merge it into the `main` branch.
 
 ---
+## 🎵 Team TA
+
+*(Add your 3 songs here)*
+
+---
 
 ## 🎵 Team 1
 

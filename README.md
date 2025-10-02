@@ -20,4 +20,4 @@ When you add your song, please use the following format precisely:
 
 *(Add your song on a new line below)*
 
-- Huntrix - Golden (REcommend by: Seungji Ryu)
+- Huntrix - Golden (Recommended by: Seungji Ryu)

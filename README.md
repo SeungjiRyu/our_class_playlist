@@ -20,3 +20,4 @@ When you add your song, please use the following format precisely:
 *(Add your song on a new line below)*
 - The Beatles - Here Comes The Sun (Recommended by: Youngki Kim)
 - Lauv - Steel the show (Recommended by: Kwnaghoon Seok)
+- Sam Smith - I'm not the only one (Recommend by: SeungjiRyu)

@@ -13,6 +13,8 @@ This is the final playlist where each team adds their top 5 selected songs from 
 ## 🎵 Team TA
 
 *(Add your 3 songs here)*
+- The Beatles - Here Comes The Sun (Recommended by: Youngki Kim)
+- Lauv - Steel the show (Recommended by: Kwnaghoon Seok)
 
 ---
 

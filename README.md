@@ -13,11 +13,10 @@ When you add your song, please use the following format precisely:
 ### Example
 
 - The Beatles - Here Comes The Sun (Recommended by: Jane Doe)
-
 ---
 
 ## 🎶 The Playlist 🎶
 
 *(Add your song on a new line below)*
-
+- The Beatles - Here Comes The Sun (Recommended by: Youngki Kim)
 - Lauv - Steel the show (Recommended by: Kwnaghoon Seok)
